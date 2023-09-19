@@ -1,3 +1,4 @@
+#ifndef QUADRADO_H
 class Quadrado {
     int lado;
 
@@ -10,3 +11,4 @@ public:
     void setLado(int lad);
     
 };
+#endif

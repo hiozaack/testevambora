@@ -1,3 +1,5 @@
+#ifndef PIRAMIDE_H
+
 class Piramide {
     float area_base;
     float area_lateral;
@@ -18,3 +20,4 @@ public:
     void setaltura(float alt);
 
 };
+#endif

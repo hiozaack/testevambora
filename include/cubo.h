@@ -1,3 +1,5 @@
+#ifndef CUBO_H
+
 class Cubo{
     int aresta;
 
@@ -8,3 +10,4 @@ public:
     int getaresta();
     void setaresta(int aret);
 };
+#endif

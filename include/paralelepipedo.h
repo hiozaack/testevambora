@@ -1,3 +1,5 @@
+#ifndef PARALELEPIPEDO_H
+
 class Paralelepipedo{
     int aresta1, aresta2, aresta3;
 
@@ -14,3 +16,4 @@ public:
 
 
 };
+#endif

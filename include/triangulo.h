@@ -1,3 +1,5 @@
+#ifndef TRIANGULO_H
+
 class Triangulo{
     int altura;
     int lado1, lado2, lado3;
@@ -18,3 +20,4 @@ public:
     void setlad3(int lad3);
 
 };
+#endif

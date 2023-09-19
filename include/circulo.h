@@ -1,3 +1,5 @@
+#ifndef CIRCULO_H
+
 class Circulo{
     float raio;
 
@@ -9,3 +11,4 @@ public:
     void setraio(float rai);
 
 };
+#endif

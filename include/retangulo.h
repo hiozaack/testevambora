@@ -1,3 +1,5 @@
+#ifndef RETANGULO_H
+
 class Retangulo{
     int altura;
     int largura;
@@ -12,3 +14,4 @@ public:
     int getlargura();
     void setlargura(int larg);
 };
+#endif

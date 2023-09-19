@@ -1,3 +1,5 @@
+#ifndef ESFERA_H
+
 class Esfera{
     float raio;
 
@@ -9,3 +11,4 @@ public:
     void setraio(float rai);
 
 };
+#endif
